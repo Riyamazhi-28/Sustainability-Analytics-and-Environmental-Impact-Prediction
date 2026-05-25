@@ -6,30 +6,38 @@ This project analyzes environmental and sustainability data to predict environme
 The project helps in understanding sustainability trends and environmental changes across different countries and years.
 
 Features
+
 Environmental data analysis
 CO₂ emission tracking
 Sustainability forecasting
 Interactive dashboard and pivot analysis
 Data visualization and prediction
+
 Technologies Used
+
 Microsoft Excel
 Data Analytics
 Pivot Tables
 Forecasting Techniques
 Data Visualization
+
 Dataset Includes
+
 CO₂ Emissions
 Greenhouse Gas Emissions
 Energy Consumption
 GDP & Population Data
 Temperature Change Indicators
 Methane & Nitrous Oxide Analysis
+
 Project Sheets
+
 Data – Raw sustainability dataset
 Dashboard – Visual analytics dashboard
 Analysis – Data insights and trends
 Pivot_Data – Pivot table analysis
 Forecast – Environmental impact prediction
+
 Objectives
 Analyze sustainability indicators
 Predict environmental impact trends
